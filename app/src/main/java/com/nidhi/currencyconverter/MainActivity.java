@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         rial = findViewById(R.id.rial);
         france = findViewById(R.id.france);
         lira = findViewById(R.id.lira);
-
+ 
         editText = findViewById(R.id.editText);
         textView = findViewById(R.id.textView);
 
