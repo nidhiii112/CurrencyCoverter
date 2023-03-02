@@ -239,7 +239,7 @@ public class MainActivity extends AppCompatActivity {
                     DecimalFormat numberformat = new DecimalFormat("#.00");
                     textView.setText("" + numberformat.format(k));
 
-                    //textView.setText("" + k);
+                    //textView.setText("" + k); 
                 }
             }
         });
